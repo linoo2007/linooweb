@@ -16,6 +16,8 @@ body {
     list-style: none;
     padding: 0px;
     text-align: center;
+    border: 1px solid #e7e7e7;
+    background-color: #f3f3f3;    
 }
 .menu li{
     display: inline;
