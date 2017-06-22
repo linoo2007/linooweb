@@ -2,10 +2,12 @@
 h1{
   font-family:Myanmar3,Yunghkio;
   }
+
 p {
   font-family:Myanmar3,Yunghkio;  
   }
-body {
+
+body{
  background-color: #FDFFD4;
- color: blue;
- }
+ color: #2E2E2E;
+}
