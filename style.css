@@ -11,3 +11,19 @@ div {
 body {
     background-color: #F1F8E0;
 }
+
+.menu{
+    list-style: none;
+    padding: 0px;
+    text-align: center;
+}
+.menu li{
+    display: inline;
+    padding: 5px;
+}
+
+.menu li a{
+    text-decoration: none;
+    color: #E74C3C;
+    border-bottom: 1px dotted #E74C3C;
+}
