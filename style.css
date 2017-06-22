@@ -1,7 +1,12 @@
-/*Style.CSS*/
+/* Style.CSS */
+
 h1{
   font-family:Myanmar3,Yunghkio;
   }
+
+div {
+    font-family: Myanmar,Yunghkio;
+}
 
 p {
   font-family:Myanmar3,Yunghkio;
