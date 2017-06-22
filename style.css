@@ -8,7 +8,6 @@ div {
     font-family: Myanmar,Yunghkio;
 }
 
-p {
-  font-family:Myanmar3,Yunghkio;
-  color: blue;
-  }
+body {
+    background-color: yellow;
+}
