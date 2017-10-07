@@ -4,6 +4,11 @@
     src: url(http://mmwebfonts.comquas.com/fonts/?font=myanmar3);
 }
 
+*{
+    padding: 20px;
+    border: 1px solid #212121;
+}
+
 div {
     font-family: Myanmar,Yunghkio;
 }
